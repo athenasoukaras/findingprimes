@@ -1,2 +1,2 @@
-# findingprimes
-Small code segment which can be utilized to see whether or not a value is prime, and what its factors are.
+# Finding Primes
+Small code segment which can be utilized to see whether or not a value is prime, and what its factors are. (≧∇≦)ﾉ
